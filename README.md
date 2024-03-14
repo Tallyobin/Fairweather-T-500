@@ -2,7 +2,7 @@
 
 
 
-
+```
 Week 6
 1 Apr – 5 Apr
 
@@ -14,7 +14,7 @@ CMPD383 (Lab 4: Chapter 5,
                   No assessment will be conducted as per direction from university)
 CMPD443 (Lab 3.0)
 MPU2183 ()
-
+```
 
 
 
