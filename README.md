@@ -14,7 +14,6 @@ CMPD383 (Lab 4: Chapter 5,
                   No assessment will be conducted as per direction from university)
 CMPD443 (Lab 3.0)
 MPU2183 ()
-```
 
 
 
@@ -28,7 +27,7 @@ CMPD343 (Blended Learning: Flipped Teaching 2 – Chapter 4,
 CMPD383 (Lab 5: Chapter 6)
 CMPD443 (Lab 4.0)
 MPU2183 ()
-
+```
 
 
 
