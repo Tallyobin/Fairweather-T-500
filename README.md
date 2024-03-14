@@ -6,27 +6,35 @@
 Week 6
 1 Apr – 5 Apr
 
-CMPD333 (Submission of Assignment 1)
-CMPD343 (Blended Learning: Online Lecture on Chapter 3 (cont.),
-                   Release of Group Assignment Question)
-CMPD383 (Lab 4: Chapter 5,
-                   Online class,
-                  No assessment will be conducted as per direction from university)
-CMPD443 (Lab 3.0)
-MPU2183 ()
+CMPD333: Submission of Assignment 1
+
+CMPD343: Blended Learning: Online Lecture on Chapter 3 (cont.),
+         Release of Group Assignment Question
+
+CMPD383: Lab 4: Chapter 5,
+         Online class,
+         No assessment will be conducted as per direction from university
+
+CMPD443: Lab 3.0
+
+MPU2183:
 
 
 
 Week 8
 15 Apr – 19 Apr
 
-CMPD333 (Quiz 3 Chapter 3, 
-                   MID-TERM EXAM Chapter 1 - 3)
-CMPD343 (Blended Learning: Flipped Teaching 2 – Chapter 4,
-                   Lab 4 – Module 4)
-CMPD383 (Lab 5: Chapter 6)
-CMPD443 (Lab 4.0)
-MPU2183 ()
+CMPD333: Quiz 3 Chapter 3, 
+         MID-TERM EXAM Chapter 1 - 3
+
+CMPD343: Blended Learning: Flipped Teaching 2 – Chapter 4,
+         Lab 4 – Module 4
+
+CMPD383: Lab 5: Chapter 6
+
+CMPD443: Lab 4.0
+
+MPU2183:
 ```
 
 
