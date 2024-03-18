@@ -33,6 +33,7 @@ CMPD343: Blended Learning: Flipped Teaching 2 – Chapter 4,
 CMPD383: Lab 5: Chapter 6
 
 CMPD443: Lab 4.0
+         Midterm - 26th
 
 MPU2183:
 ```
