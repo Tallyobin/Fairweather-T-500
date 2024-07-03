@@ -59,6 +59,16 @@ __Comes out facing the printer's right__
 
 
 
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
 # **Fundamentals of a photograph's exposure**
 
 
@@ -86,26 +96,23 @@ __Comes out facing the printer's right__
 
 
 
-
-
-
-
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+```
 First cylinder length = 23 cm × 2
-                                    = 46 cm
+                      = 46 cm
 
 Second cylinder detracted = 4.5 cm × 2
-                                               = 9 cm
+                          = 9 cm
 
 Current second cylinder length = 46 - 9
-                                                       = 37 cm
+                               = 37 cm
 
 
 New first cylinder length = 46 - 14
-                                            = 32 cm
+                          = 32 cm
 
 New second cylinder length = 37 - 14
-                                                  = 23 cm
+                           = 23 cm
 
 
 
@@ -119,21 +126,14 @@ Top 4 (4.5 × 4.5 cm)
 Top 3 (23  × 4.5 cm)
 Bottom 1 (23  × 4.5 cm)
 
+Top 2 (32 × 32 cm)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Bottom 2 (32 × 32 cm)
+Top 1 (23  × 4.5 cm)
+Bottom 3 (23  × 4.5 cm)
+Bottom 4 (4.5 × 4.5 cm)
+```
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ```
 player.setweaponhealthperc 100
 Player.RestoreActorValue RadiationRads 1000
@@ -175,10 +175,3 @@ https://www.nma-fallout.com/resources/fallout-fixt-full-all-fixes-and-mods.8/
 https://www.nexusmods.com/newvegas/users/2443503?tab=user+files&BH=0
 https://www.nexusmods.com/newvegas/mods/?tags_yes[]=1066&BH=0
 ```
-
-Top 2 (32 × 32 cm)
-
-Bottom 2 (32 × 32 cm)
-Top 1 (23  × 4.5 cm)
-Bottom 3 (23  × 4.5 cm)
-Bottom 4 (4.5 × 4.5 cm)
