@@ -52,50 +52,6 @@ __Comes out facing the printer's left__
 __Comes out facing the printer's right__
 3,
 1
-
-
-
-
-
-
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-
-
-
-
-
-
-# **Fundamentals of a photograph's exposure**
-
-
-# **Aperture**
-* Represented by an f-number (e.g., f/2.8, f/5.6, f/16).
-* A wide aperture (smaller f-number) allows more light to enter and produces a shallow depth of field with a blurred background.
-* A narrow aperture (larger f-number) restricts the amount of light and increases the depth of field, resulting in more of the scene being in focus.
-
-
-# **Shutter Speed**
-* Measured in seconds or fractions of a second (e.g., 1/1000s, 1/250s, 1s).
-* A fast shutter speed (e.g., 1/1000s) restricts the amount of light and allows for freezing fast-moving subjects.
-* A slow shutter speed (e.g., 1s) allows more light to enter and capturing motion blur.
-
-
-# **ISO**
-* Represented by a numerical value (e.g., ISO 100, ISO 400, ISO 3200).
-* A lower ISO setting (e.g., ISO 100) is less sensitive to light and is typically used in bright lighting conditions.
-* A higher ISO setting (e.g., ISO 1600) makes the sensor more sensitive, allowing for photography in low-light situations. However, increasing the ISO can introduce digital noise or graininess into the image.
-
-
-
-
-
-
-
-
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ```
 First cylinder length = 23 cm × 2
@@ -113,9 +69,8 @@ New first cylinder length = 46 - 14
 
 New second cylinder length = 37 - 14
                            = 23 cm
-
-
-
+```
+```
 Left
 Front 1
 Front 2
@@ -141,7 +96,6 @@ Player.RestoreActorValue RadiationRads 1000
 https://falloutcheats.com/
 https://fallout.fandom.com/wiki/Fallout:_New_Vegas_console_commands
 ```
-
 ```
 https://www.nexusmods.com/newvegas/mods/36656
 https://www.nexusmods.com/newvegas/mods/67761
