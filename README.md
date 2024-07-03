@@ -52,7 +52,7 @@ __Comes out facing the printer's left__
 __Comes out facing the printer's right__
 3,
 1
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 ```
 First cylinder length = 23 cm × 2
                       = 46 cm
@@ -88,7 +88,7 @@ Top 1 (23  × 4.5 cm)
 Bottom 3 (23  × 4.5 cm)
 Bottom 4 (4.5 × 4.5 cm)
 ```
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 ```
 player.setweaponhealthperc 100
 Player.RestoreActorValue RadiationRads 1000
